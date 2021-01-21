@@ -1,0 +1,3 @@
+[submodule "lib/COMDict"]
+	path = lib/COMDict
+	url = git@github.com:Andreas-Coding/COMDict.ahk.git
